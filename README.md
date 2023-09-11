@@ -6,7 +6,7 @@
 
 Utilizing energy production and consumption data from the U.S. Energy Information Administration, we aim to determine trends in the US energy sector and their correlation with markets. More specifically, we will  tell the story of the sector and see if movement in production, consumption, and prices relate to changes in the indices and equities. 
 
-#Installation and Setup
+## Installation and Setup
 
 ### Tools Used
 - **Editor:** Jupyter Notebook run through Anaconda
