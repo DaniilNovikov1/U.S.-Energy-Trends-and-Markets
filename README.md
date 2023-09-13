@@ -28,6 +28,9 @@ Utilizing energy production and consumption data from the U.S. Energy Informatio
 
 ## Results and Evaluation
 
+- Energy Data Files
+- Data Transformation - US Energy Trends and Markets
+
 ## Future Work
 
 Future analysis can test different trading strategies and whether other sectors are correlated with energy.
