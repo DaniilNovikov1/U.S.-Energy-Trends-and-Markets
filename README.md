@@ -26,10 +26,13 @@ Utilizing energy production and consumption data from the U.S. Energy Informatio
 
 ## Repository Structure
 
-## Results and Evaluation
-
 - Energy Data Files
+- Inflation Calculations
 - Data Transformation - US Energy Trends and Markets
+- functions.py
+- Broad Analysis
+
+## Results and Evaluation
 
 ## Future Work
 
